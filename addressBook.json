@@ -1,0 +1,13 @@
+{
+    "personalDetail": [
+        {
+            "firstname": "Shashank ",
+            "lastName": "Shekhar",
+            "address": "Btm 2nd Stage, Bengaluru",
+            "city": "Bengaluru",
+            "state": "Karnatka",
+            "zip": "560076",
+            "phoneNumber": "8847515314"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "productDetail": [
+        {
+            "productName": "Rice",
+            "productQuantity": "10",
+            "productType": "indian",
+            "productPrice": "20"
+        }
+    ]
+}
